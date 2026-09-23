@@ -22,6 +22,6 @@ The goal is to make everyday life agentic without requiring people to become age
 
 ## Mathematics and research
 
-- **[Erdős 193](https://github.com/q5m-ai/erdos-193)** — mathematical research and computation around Erdős problem 193.
-- **[Basis Walk](https://github.com/q5m-ai/basis-walk)** — positive-basis lattice walks: interactive geometry, proof ideas, and reproducible exact finite checks.
+- **[Erdős 193](https://erdos-193.q5m.ai)** — mathematical research and computation around Erdős problem 193. [Source](https://github.com/q5m-ai/erdos-193).
+- **[Basis Walk](https://basis-walk.q5m.ai)** — positive-basis lattice walks: interactive geometry, proof ideas, and reproducible exact finite checks. [Source](https://github.com/q5m-ai/basis-walk).
 - **[Paseo Math](https://github.com/q5m-ai/paseo-math)** — cross-platform mathematical rendering for agent timelines.
