@@ -7,8 +7,6 @@ q5m builds products, infrastructure, and research for life alongside capable AI 
 ## North star
 
 > **Cloud convenience + curated experience + user control + open-ended capability.**
->
-> Curate the experience, not the ceiling.
 
 The goal is to make everyday life agentic without requiring people to become agent administrators: managed and ready to use, while remaining user-directed and extensible within clear permissions and safety boundaries.
 
